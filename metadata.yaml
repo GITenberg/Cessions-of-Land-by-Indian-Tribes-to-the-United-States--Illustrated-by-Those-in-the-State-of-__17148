@@ -1,0 +1,33 @@
+_repo: Cessions-of-Land-by-Indian-Tribes-to-the-United-States--Illustrated-by-Those-in-the-State-of-__17148
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Royce, Charles C.
+    birthdate: 1845
+    deathdate: 1923
+    gutenberg_agent_id: '7171'
+    url: http://www.gutenberg.org/2009/agents/7171
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2005-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indian land transfers -- United States'
+- !lcsh 'Indian land transfers -- Indiana'
+- !lcsh 'Indians of North America -- Land tenure -- Indiana'
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Government relations'
+title: "Cessions of Land by Indian Tribes to the United States: Illustrated by Those\
+  \ in the State of Indiana\r\nFirst Annual Report of the Bureau of Ethnology to the\
+  \ Secretary of the Smithsonian Institution, 1879-80, Government Printing Office,\
+  \ Washington, 1881, pages 247-262"
+url: http://www.gutenberg.org/ebooks/17148
